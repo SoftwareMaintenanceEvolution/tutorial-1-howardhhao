@@ -3,7 +3,7 @@
 Hi! I'm Wen Hao, a student in the Framework-Based Software Design and Development course. 
 I hope to learn more about modern software maintenance techniques and how to effectively manage and improve legacy systems.
 
-![My Image]([https://drive.google.com/file/d/1cczMXzkJj6ETuMhtqKDHF7qZMl9RY5rQ/view?usp=sharing](https://drive.google.com/file/d/1ghT4DUsNvLevUFSdMg-JuobAPFZj8HCw/view?usp=sharing))  <!-- Link to the uploaded image -->
+![My Image](https://drive.google.com/file/d/1ghT4DUsNvLevUFSdMg-JuobAPFZj8HCw/view?usp=drive_link)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
